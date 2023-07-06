@@ -6,32 +6,32 @@ let food = [
         name:`Rawon`,
         stok: 2,
         harga: 20000,
-        image: './assets/images/rawon.jpg'
+        image: 'rawon.jpg'
     },
     {
         name:`Soto Betawi`,
         stok: 0,
         harga: 60000,
-        image: './assets/images/sotobetawi.jpg'
+        image: 'sotobetawi.jpg'
     },
     {
         name:`Krupuk`,
         stok: 12,
         harga: 2500,
-        image: './assets/images/kerupuk_putih.jpg'
+        image: 'kerupuk_putih.jpg'
     },
     {
         name:`Telur Asin`,
         stok: 20,
         harga: 70000,
-        image: './assets/images/telor_asin.jpg'
+        image: 'telor_asin.jpg'
 
     },
     {
         name:`Es Teh Manis`,
         stok: 25,
         harga: 20000,
-        image: './assets/images/es_teh_manis.jpg'
+        image: 'es_teh_manis.jpg'
 
     },
 ]
